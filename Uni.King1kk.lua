@@ -1,2 +1,1 @@
-return loadstring(game:HttpGet(""))()
-https://raw.githubusercontent.com/nXiter/KingofScripts/main/Universal.lua
+return loadstring(game:HttpGet("https://raw.githubusercontent.com/nXiter/KingofScripts/main/Universal.lua"))()
